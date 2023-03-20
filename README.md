@@ -45,3 +45,11 @@ Birleşmeli Sıralama (Merge Sort), bilgisayar bilimlerinde O(n log(n)) derecesi
 - Alan karmaşıklığı: En kötü durumda О(n)
 - En iyi: Genellikle
 - Veri yapısı: Dizi
+
+|  Adım    |     Dizi Durumu         |
+ ----------|-------------------------
+| 1.adım   |  [16,21,11,8,12,22]     |
+| 2.adım   |  [16,21,11] [8,12,22]   |
+| 3.adım   |  [16,21,11,8,12,22]     |
+| 4.adım   |  [16,21,11,8,12,22]     |
+ 
