@@ -1,7 +1,7 @@
 # [Patika.dev](https://app.patika.dev) Veri Yapilari Projesi
 ### Sorting ve Searching Algoritmalari
 -----------------------------------------------------------------
-## Insertion Sort
+## Insertion Sort (Eklemeli sıralama)
 
  Eklemeli Sıralama, bilgisayar bilimlerinde kullanılan ve sıralı diziyi her adımda öğe öğe oluşturan bir sıralama algoritmasıdır. Büyük dizilerle çalışıldığında hızlı sıralama, birleştirmeli sıralama ve yığın sıralaması gibi daha gelişmiş sıralama algoritmalarından daha verimsiz çalışır.[Wikipedia](https://tr.wikipedia.org/wiki/Eklemeli_sıralama)
 
@@ -20,7 +20,7 @@
  | 6.adım   |  [2,6,16,18,22,27] |
 
 -----------------------------------------------------------------
-## Selection Sort
+## Selection Sort (Seçmeli sıralama)
 
 Seçmeli Sıralama, bilgisayar bilimlerinde kullanılan bir sıralama algoritmasıdır. Karmaşıklığı O(n²) olduğu için büyük listeler üzerinde kullanıldığında verim sağlamaz ve genel olarak benzeri olan eklemeli sıralamadan daha başarısızdır. Seçmeli sıralama yalın olduğu ve bazı durumlarda daha karmaşık olan algoritmalardan daha iyi sonuç verdiği için tercih edilebilir.[Wikipedia](https://tr.wikipedia.org/wiki/Seçmeli_sıralama)
 
@@ -36,3 +36,6 @@ Seçmeli Sıralama, bilgisayar bilimlerinde kullanılan bir sıralama algoritmas
  | 3.adım   |  [2,3,4,8,7,9,5,15,6] |
  | 4.adım   |  [2,3,4,5,7,9,8,15,6] |
  
+-----------------------------------------------------------------
+## Merge Sort (Birleştirmeli sıralama)
+
