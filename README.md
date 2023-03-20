@@ -1,6 +1,6 @@
 # [Patika.dev](https://www.patika.dev/tr) Veri Yapilari Projesi
 ### Sorting ve Searching Algoritmalari
-=================================================================
+-----------------------------------------------------------------
 ## Insertion Sort (Eklemeli sıralama)
 
  Eklemeli Sıralama, bilgisayar bilimlerinde kullanılan ve sıralı diziyi her adımda öğe öğe oluşturan bir sıralama algoritmasıdır. Büyük dizilerle çalışıldığında hızlı sıralama, birleştirmeli sıralama ve yığın sıralaması gibi daha gelişmiş sıralama algoritmalarından daha verimsiz çalışır.[Wikipedia](https://tr.wikipedia.org/wiki/Eklemeli_sıralama)
