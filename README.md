@@ -39,3 +39,9 @@ Seçmeli Sıralama, bilgisayar bilimlerinde kullanılan bir sıralama algoritmas
 -----------------------------------------------------------------
 ## Merge Sort (Birleştirmeli sıralama)
 
+Birleşmeli Sıralama (Merge Sort), bilgisayar bilimlerinde O(n log(n)) derecesinde karmaşıklığa sahip bir sıralama algoritmasıdır. Girdi olarak aldığı diziyi en küçük hale gelene kadar ikili gruplara böler ve karşılaştırma yöntemi kullanarak diziyi sıralar.[Wikipedia](https://tr.wikipedia.org/wiki/Birleştirmeli_sıralama)
+
+- Zaman karmaşıklığı: O(n log(n))
+- Alan karmaşıklığı: En kötü durumda О(n)
+- En iyi: Genellikle
+- Veri yapısı: Dizi
