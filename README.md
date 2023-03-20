@@ -68,3 +68,5 @@ Birleşmeli Sıralama (Merge Sort), bilgisayar bilimlerinde O(n log(n)) derecesi
  İkili arama ağacı, verileri organize etmek için kullanılan bir çeşit ikili ağaçtır. İkili ağaçtan temel farkı, verilerin sıralanmış bir şekilde tutulmasıdır, bu sayede ikili arama algoritmasının kullanılmasına imkân verir.
  İkili arama ağaçlarında; her düğümün sağ çocuğu kendisinden büyük, sol çocuğu ise kendisinden küçüktür. Bu ağaçlarda çalışan arama algoritması önce kökten başlar, eğer aranan eleman kökten büyükse sağ çocuğa, kökten küçükse sol çocuğa ilerler. Böylece, eleman bulunana yapraklara kadar yinelemeli bir şekilde ilerleme sağlanır.[Wikipedia](https://tr.wikipedia.org/wiki/İkili_arama_ağacı)
 
+### Örnek Dizi : [7, 5, 1, 8, 3, 6, 0, 9, 4, 2]
+
