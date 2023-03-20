@@ -1,4 +1,4 @@
-# [Patika.dev](https://app.patika.dev) Veri Yapilari Projesi
+# [Patika.dev](https://www.patika.dev/tr) Veri Yapilari Projesi
 ### Sorting ve Searching Algoritmalari
 -----------------------------------------------------------------
 ## Insertion Sort (Eklemeli sıralama)
