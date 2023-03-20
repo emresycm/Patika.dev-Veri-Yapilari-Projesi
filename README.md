@@ -70,6 +70,28 @@ Birleşmeli Sıralama (Merge Sort), bilgisayar bilimlerinde O(n log(n)) derecesi
 
 ### Örnek Dizi : [7,5,1,8,3,6,0,9,4,2]
 
+- 7 düğümünü kök olarak ekleyin.
+
+- 5 düğümü, 7'den küçük olduğu için sol alt ağaca ekleyin.
+
+- 1 düğümü, 7'den küçük olduğu için sol alt ağacın soluna ekleyin.
+
+- 8 düğümü, 7'den büyük olduğu için sağ alt ağaca ekleyin.
+
+- 3 düğümü, 5'ten küçük olduğu için sol alt ağacın soluna ekleyin.
+
+- 6 düğümü, 5'ten büyük ve 7'den küçük olduğu için sol alt ağaca ekleyin.
+
+- 0 düğümü, 7'den küçük olduğu için sol alt ağacın soluna ekleyin.
+
+- 9 düğümü, 7'den büyük olduğu için sağ alt ağaca ekleyin.
+
+- 4 düğümü, 5'ten büyük ve 7'den küçük olduğu için sol alt ağaca ekleyin.
+
+- 2 düğümü, 5'ten küçük olduğu için sol alt ağacın sağ altına ekleyin.
+
+Bu şekilde, verilen dizinin Binary-Search-Tree'deki aşamaları Aşağıdaki şekildedir.
+
               7
 	         / \
             5   8
