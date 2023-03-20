@@ -70,7 +70,7 @@ Birleşmeli Sıralama (Merge Sort), bilgisayar bilimlerinde O(n log(n)) derecesi
 
 ### Örnek Dizi : [7,5,1,8,3,6,0,9,4,2]
 
-- 7 düğümünü kök olarak ekleyin.
+- 7 düğümünü kök (root) olarak ekleyin.
 
 - 5 düğümü, 7'den küçük olduğu için sol alt ağaca ekleyin.
 
