@@ -17,7 +17,7 @@
 
 Eklemeli Sıralama, bilgisayar bilimlerinde kullanılan ve sıralı diziyi her adımda öğe öğe oluşturan bir sıralama algoritmasıdır. Büyük dizilerle çalışıldığında hızlı sıralama, birleştirmeli sıralama ve yığın sıralaması gibi daha gelişmiş sıralama algoritmalarından daha verimsiz çalışır.[Wikipedia](https://tr.wikipedia.org/wiki/Eklemeli_sıralama)
 
-- Zaman karmaşıklığı: O(n^2^)
+- Zaman karmaşıklığı: O(n²)
 - Alan karmaşıklığı: O(1)
 - En iyi: Genellikle değil
 - Veri yapısı: Dizi
@@ -25,8 +25,8 @@ Eklemeli Sıralama, bilgisayar bilimlerinde kullanılan ve sıralı diziyi her a
 -----------------------------------------------------------------
 ## Selection Sort
 
-Seçmeli Sıralama, bilgisayar bilimlerinde kullanılan bir sıralama algoritmasıdır. Karmaşıklığı O(n^2^) olduğu için büyük listeler üzerinde kullanıldığında verim sağlamaz ve genel olarak benzeri olan eklemeli sıralamadan daha başarısızdır. Seçmeli sıralama yalın olduğu ve bazı durumlarda daha karmaşık olan algoritmalardan daha iyi sonuç verdiği için tercih edilebilir.[Wikipedia](https://tr.wikipedia.org/wiki/Seçmeli_sıralama)
+Seçmeli Sıralama, bilgisayar bilimlerinde kullanılan bir sıralama algoritmasıdır. Karmaşıklığı O(n²) olduğu için büyük listeler üzerinde kullanıldığında verim sağlamaz ve genel olarak benzeri olan eklemeli sıralamadan daha başarısızdır. Seçmeli sıralama yalın olduğu ve bazı durumlarda daha karmaşık olan algoritmalardan daha iyi sonuç verdiği için tercih edilebilir.[Wikipedia](https://tr.wikipedia.org/wiki/Seçmeli_sıralama)
 
 - Alan karmaşıklığı: toplamda О(n), ek alan O(1)
 - En iyi: Genellikle değil
-- Zaman karmaşıklığı: O(n^2^)
+- Zaman karmaşıklığı: O(n²)
