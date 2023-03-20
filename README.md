@@ -10,6 +10,8 @@
 - En iyi: Genellikle değil
 - Veri yapısı: Dizi
 
+### Örnek
+
  |  Adım    |     Dizi Durumu    |
  -----------|---------------------
  | 1.adım   |  [22,27,16,2,18,6] |
@@ -29,6 +31,8 @@ Seçmeli Sıralama, bilgisayar bilimlerinde kullanılan bir sıralama algoritmas
 - En iyi: Genellikle değil
 - Veri yapısı: Dizi
 
+### Örnek
+
  |  Adım    |     Dizi Durumu       |
  -----------|-----------------------
  | 1.adım   |  [7,3,5,8,2,9,4,15,6] |
@@ -46,6 +50,8 @@ Birleşmeli Sıralama (Merge Sort), bilgisayar bilimlerinde O(n log(n)) derecesi
 - En iyi: Genellikle
 - Veri yapısı: Dizi
 
+### Örnek
+
 |  Adım    |     Dizi Durumu               |
  ----------|-------------------------------
 | 1.adım   |      [16,21,11,8,12,22]       |
@@ -56,4 +62,9 @@ Birleşmeli Sıralama (Merge Sort), bilgisayar bilimlerinde O(n log(n)) derecesi
 | 6.adım   |     [11,16,21]-[8,12,22]      |
 | 7.adım   |      [8,11,12,16,21,22]       |
 
- 
+ -----------------------------------------------------------------
+ ## Binary Searh Tree (İkili Arama Ağacı)
+
+ İkili arama ağacı, verileri organize etmek için kullanılan bir çeşit ikili ağaçtır. İkili ağaçtan temel farkı, verilerin sıralanmış bir şekilde tutulmasıdır, bu sayede ikili arama algoritmasının kullanılmasına imkân verir.
+ İkili arama ağaçlarında; her düğümün sağ çocuğu kendisinden büyük, sol çocuğu ise kendisinden küçüktür. Bu ağaçlarda çalışan arama algoritması önce kökten başlar, eğer aranan eleman kökten büyükse sağ çocuğa, kökten küçükse sol çocuğa ilerler. Böylece, eleman bulunana yapraklara kadar yinelemeli bir şekilde ilerleme sağlanır.[Wikipedia](https://tr.wikipedia.org/wiki/İkili_arama_ağacı)
+
