@@ -1,2 +1,2 @@
 # [Patika.dev](https://app.patika.dev) Veri Yapilari Projesi
- Sorting ve Searching Algoritmalari
+### Sorting ve Searching Algoritmalari
